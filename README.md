@@ -56,9 +56,9 @@ OVENQUILL ENVELOPES создаёт уникальные подписанные �
 1. Установите Paper или совместимую сборку Purpur для Minecraft 26.2.
 2. Используйте Java 25 или новее.
 3. Остановите сервер и сделайте резервную копию.
-4. Скопируйте [`release/OvenquillEnvelopes.jar`](release/OvenquillEnvelopes.jar) в `plugins/`.
+4. Скопируйте [`OvenquillEnvelopes.jar`](OvenquillEnvelopes.jar) в `plugins/`.
 5. Запустите сервер для создания конфигурации и базы.
-6. Установите [`release/OvenquillEnvelopes-resourcepack.zip`](release/OvenquillEnvelopes-resourcepack.zip) как серверный ресурс-пак или включите его в основной пак OVENQUILL.
+6. Установите [`OvenquillEnvelopes-resourcepack.zip`](OvenquillEnvelopes-resourcepack.zip) как серверный ресурс-пак или включите его в основной пак OVENQUILL.
 7. Настройте права через LuckPerms либо стандартный Bukkit permission API.
 
 Не удаляйте и не заменяйте `plugins/OvenquillEnvelopes/secret.key`: смена ключа сделает ранее выданные конверты недействительными.
